@@ -9,7 +9,7 @@
 JOINUS: send an email to D3VC0RP+join@gmail.com with github profile link.<br>
 QUESTIONS: send an email to D3VC0RP+questions@gmail.com
 
-# AboutUS
+# [AboutUS](https://github.com/D3VC0RP/site/blob/STABLE/aboutus.md)
 
 We will be training people with the latest AI skills to be prepared for the future.
   
