@@ -1,6 +1,6 @@
 # site
 
-#CONTACT US TO JOIN
+# CONTACT US TO JOIN D3VC0RP
 
 JOINUS: send an email to D3VC0RP+join@gmail.com <br>
 QUESTIONS: send an email to D3VC0RP+questions@gmail.com
