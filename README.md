@@ -13,7 +13,7 @@ Through rigorous assessments and real-world simulations, we unveil your hidden g
 
 We don't just validate your skills; we curate them. Your best projects, your brightest moments – we shine a spotlight on them, building a portfolio that tells your unique tech story. This isn't a one-size-fits-all approach; it's personalized storytelling, tailored to resonate with the right employers seeking your specific skillset.
 
-Forget the cold-call scramble. DeveloperCorp grants you exclusive access to a network of top companies actively searching for talent like yours. We break down the barriers, opening doors to exciting opportunities that align perfectly with your aspirations.
+Forget the cold-call scramble. DeveloperCorp grants you exclusive access to a network of companies actively searching for talent like yours. We break down the barriers, opening doors to exciting opportunities that align perfectly with your aspirations.
 
 And because every journey needs guidance, we're here to equip you with expert advice. From career paths to salary negotiation, from personal branding to interview prep, we empower you to navigate the tech landscape with confidence.
 
@@ -22,4 +22,27 @@ Leave the doubts behind. With DeveloperCorp as your advocate, you enter the mark
 Ready to unlock your true potential? Join DeveloperCorp and watch your career soar. We're not just in the business of validating skills; we're in the business of empowering tech dreams.
 
 Remember, you can further personalize this description by adding specific details about your assessment methods, employer networks, and career guidance services. I hope this version resonates with your vision for DeveloperCorp!
+
+
+# Software Agency Structure
+
+
+Job Roles
+
+1) Business Development - 
+2) Specification Representative - they goto clients, identify technical specs, write technical specifications needed and submit spec to spec reviewer.
+3) Specification Reviewer - reviews specification for possibilities and passes or rejects it.
+4) Batch Specification Merger - reviews many specifications to build "universal reusable components" in an attempt to reduce development time for everyone.
+5) Architect - reviews the specification and designs architecture with best practices.
+6) GitHub Manager - manages the program.
+7) Consultant - knowledge based people to QA with.
+8) Programmer - programs the software.
+9) QA Tester - Tests the Software.
+10) Release Manager - passes or rejects the software.
+
+
+
+
+
+
 
