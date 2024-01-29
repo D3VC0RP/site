@@ -1,5 +1,12 @@
 # site
 
+#CONTACT US TO JOIN
+
+JOINUS: send an email to D3VC0RP+join@gmail.com <br>
+QUESTIONS: send an email to D3VC0RP+questions@gmail.com
+
+# AboutUS
+  
 Forget the resume black hole. At DeveloperCorp, we see beyond the paper and delve into the depths of your technical prowess. We're not just another agency; we're your skills translator, your career advocate, your passport to tech success.
 
 Through rigorous assessments and real-world simulations, we unveil your hidden gems and craft a comprehensive profile that speaks volumes. This isn't about ticking boxes; it's about showcasing your true capabilities, the ones that often get lost in the shuffle of generic applications.
